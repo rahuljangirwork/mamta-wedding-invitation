@@ -1,5 +1,5 @@
-<p align="center"><a href="https://rahul-pranjal-wedding-invite.web.app/"><img src="https://raw.githubusercontent.com/rahuljangirwork/Wedding-Invitation/refs/heads/master/favicon.png" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://rahul-pranjal-wedding-invite.web.app/">Wedding Invitation</a><img src="https://raw.githubusercontent.com/rahuljangirwork/Wedding-Invitation/refs/heads/master/assets/wedding.gif" width="22px" height="22px"  <br> <br> SAVE THE DATE: DEC 04, 2023 <br> <a href="https://rahul-pranjal-wedding-invite.web.app/">Rahul Pranjal widding invitation</a></h1>
+<p align="center">https://mamta-rahul-wedding-invite.web.app/</p>
+<h1 align="center"><a href="https://mamta-rahul-wedding-invite.web.app/">Mamta & Rahul's Wedding Invitation</a><img src="https://raw.githubusercontent.com/rahuljangirwork/Wedding-Invitation/refs/heads/master/assets/wedding.gif" width="22px" height="22px"  <br> <br> SAVE THE DATE: DEC 04, 2023 <br> <a href="https://mamta-rahul-wedding-invite.web.app/">Mamta & Rahul's Wedding Invitation</a></h1>
 
 Welcome to our wedding invitation website repository! This project is built with HTML, CSS, and JavaScript to create a beautiful and interactive platform for inviting your guests to celebrate this special day with you. The website incorporates various features, including an RSVP section to help you manage your guest list. We've also utilized the ScrollReveal library to add elegant scrolling animations and bring an extra touch of magic to the site. Feel free to explore the code, customize it to your liking, and use it as a template for your own wedding invitation website. Wishing you a wonderful wedding journey!
 
@@ -12,7 +12,7 @@ Welcome to our wedding invitation website repository! This project is built with
 
 With the divine grace of the Almighty,
 I cordially invite you and your family to
-my wedding to be held on **04th December at [jangid bhawan](https://maps.app.goo.gl/wPVwUUrKnYUMy24D7), Akola from 7:00 PM** onwards.
+my wedding to be held on **04th December at Shivnagar, Sikar, Rajasthan from 7:00 PM** onwards.
 
 - [Download](invitation/widding-invitation-04-Dec.pdf) the Invitation card
 
