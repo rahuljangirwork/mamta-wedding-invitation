@@ -851,6 +851,33 @@ blockquote::after {
 	color: var(--title-color);
 }
 
+.call-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.call-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    font-size: 14px;
+    transition: .3s;
+    text-decoration: none;
+}
+
+.call-button:hover {
+    background-color: var(--second-color);
+    color: var(--title-color);
+}
+
 .d-block {
 	display: block !important;
 }
@@ -911,6 +938,8 @@ blockquote::after {
 	padding: 0 1.5rem;
 	background-color: transparent;
 	margin-bottom: 0.25rem;
+	grid-template-columns: 1fr;
+	justify-items: center;
 }
 
 
@@ -926,6 +955,7 @@ td:first-child {
 @media (min-width: 768px) {
 	.responsive-table__row {
 		grid-template-columns: 1fr 1fr;
+		justify-items: start;
 	}
 }
 
